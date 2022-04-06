@@ -30,11 +30,11 @@ Users are able to:
 
 ### Screenshot
 
-[](src/assets/comments-board-preview.png)
+[Watch screenshot](src/assets/comments-board-preview.png)
 
 ### Link
 
-- Live Site URL: [Live demo](https://your-live-site-url.com)
+- Live Site URL: [Live demo](https://wasatad.github.io/Comments-Board/)
 
 ## My process
 
