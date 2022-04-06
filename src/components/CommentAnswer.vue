@@ -124,7 +124,7 @@
 
                 <span class="icon-delete-desc">Delete</span>
               </div>
-              <div class="edit">
+              <div @click="toggleEditinigMode" class="edit">
                 <svg
                   class="edit-btn"
                   width="14"
@@ -137,9 +137,7 @@
                   />
                 </svg>
 
-                <span class="icon-edit-desc" @click="toggleEditinigMode"
-                  >Edit</span
-                >
+                <span class="icon-edit-desc">Edit</span>
               </div>
             </div>
           </div>
