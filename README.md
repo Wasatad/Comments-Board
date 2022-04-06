@@ -55,7 +55,7 @@ By making this project i consolidated knowledge of basic Vue.js features (compon
 ## Author
 
 - Frontend Mentor - [@Wasatad](https://www.frontendmentor.io/profile/Wasatad)
-- Telegram - [@kuznetsovtm](https://t.me/@kuznetsovtm)
+- Telegram - [@kuznetsovtm](https://t.me/kuznetsovtm)
 
 ## Acknowledgments
 
