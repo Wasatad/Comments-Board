@@ -405,7 +405,7 @@ export default {
 .comment-card {
   width: 100%;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: flex-start;
   border-radius: 8px;
   padding: 24px;
@@ -416,7 +416,7 @@ export default {
 .admin-comment {
   width: 100%;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: flex-start;
   border-radius: 8px;
   padding: 24px;
@@ -459,7 +459,7 @@ export default {
 .data {
   width: 100%;
   display: flex;
-  align-items: start;
+  align-items: flex-start;
   justify-content: space-between;
 }
 

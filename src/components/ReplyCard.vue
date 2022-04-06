@@ -381,7 +381,7 @@ export default {
 .reply-card {
   width: 90%;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   gap: 16px;
   align-items: flex-start;
   border-radius: 8px;

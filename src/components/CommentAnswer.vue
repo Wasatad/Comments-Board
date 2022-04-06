@@ -402,7 +402,7 @@ export default {
 .editing {
   width: 100%;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: flex-start;
 }
 
@@ -482,7 +482,7 @@ button:hover {
 .not-editing {
   width: 100%;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: flex-start;
 }
 
@@ -572,7 +572,7 @@ button:hover {
 .comment-answer {
   width: 100%;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: flex-start;
   border-radius: 8px;
   padding: 24px;
