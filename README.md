@@ -30,7 +30,7 @@ Users are able to:
 
 ### Screenshot
 
-[Watch screenshot](src/assets/comments-board-preview.png)
+![image](src/assets/comments-board-preview.png)
 
 ### Link
 
