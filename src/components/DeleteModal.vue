@@ -56,8 +56,8 @@ export default {
   top: 50%;
   padding: 30px 30px 35px 30px;
   left: 50%;
-  transform: translate(-50%, -50%);
-  position: fixed;
+  transform: translate(-50%, -100%);
+  position: absolute;
   z-index: 101;
   background-color: white;
   border-radius: 10px;

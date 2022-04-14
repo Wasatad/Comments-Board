@@ -17,9 +17,7 @@
       contenteditable="false"
       class="body"
     >
-      <div contentEditable="false" class="name-tag">
-        {{ nameTag }}
-      </div>
+      <div contentEditable="false" class="name-tag">{{ nameTag }}&nbsp;</div>
       <div
         @keydown.enter="addNewComment"
         ref="text"
@@ -355,7 +353,7 @@ export default {
 
       let index = users.findIndex((user) => user.id == this.userId);
 
-      this.nameTag = "@" + users[index].name + ", ";
+      this.nameTag = "@" + users[index].name + ",";
     }
     this.observerAnswers(), this.observerComments(), this.observerReplyField();
   },
